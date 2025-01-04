@@ -1,0 +1,66 @@
+#About {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 1rem;
+  font-family: "Poppins", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem 2rem;
+  padding: 1rem;
+}
+
+.text-about-me {
+  padding: 2%;
+  text-align: start;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+video {
+  width: 300px;
+  height: auto;
+  border-radius: 20% 30% 10% 50%;
+  filter: brightness(85%) contrast(180%) drop-shadow(2px 2px 8px gray);
+}
+
+@media (max-width: 768px) {
+  article{
+    display: none;
+  }
+  .about-me {
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+    padding: 0;
+  }
+
+  .text-about-me {
+    padding: 0;
+    text-align: justify;
+  }
+}
+
+
+@media (min-width: 2000px) {
+
+  video {
+    width: auto;
+    height: 100%;
+  }
+}

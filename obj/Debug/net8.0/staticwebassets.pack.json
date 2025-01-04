@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\devguilherme.bundle.scp.css",
+      "PackagePath": "staticwebassets\\devguilherme.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\docs\\Currículo-Guilherme-Barbosa.pdf",
+      "PackagePath": "staticwebassets\\assets\\docs\\Currículo-Guilherme-Barbosa.pdf"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-footer\\email-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-footer\\email-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-footer\\github-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-footer\\github-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-footer\\instagram-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-footer\\instagram-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-footer\\internet-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-footer\\internet-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-footer\\linkedin-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-footer\\linkedin-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-footer\\whatszapp-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-footer\\whatszapp-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-home\\baixar-currículo-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-home\\baixar-currículo-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-home\\github-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-home\\github-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\icons\\For-home\\linkedin-icons8.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\For-home\\linkedin-icons8.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\images\\dev-orange.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dev-orange.jpg"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\images\\dev.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dev.jpg"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\images\\devguilherme.png",
+      "PackagePath": "staticwebassets\\assets\\images\\devguilherme.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\images\\frontend-ilustração.png",
+      "PackagePath": "staticwebassets\\assets\\images\\frontend-ilustração.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\images\\ilustração-website.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ilustração-website.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\images\\lh-games.PNG",
+      "PackagePath": "staticwebassets\\assets\\images\\lh-games.PNG"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\images\\sistema-de-cadastro.png",
+      "PackagePath": "staticwebassets\\assets\\images\\sistema-de-cadastro.png"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\assets\\videos\\devguilherme-motion.mp4",
+      "PackagePath": "staticwebassets\\assets\\videos\\devguilherme-motion.mp4"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\css\\Projects.css",
+      "PackagePath": "staticwebassets\\css\\Projects.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\css\\Services.css",
+      "PackagePath": "staticwebassets\\css\\Services.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Guilherme\\TI\\Projetos\\mvc\\devguilherme\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.devguilherme.props",
+      "PackagePath": "build\\devguilherme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.devguilherme.props",
+      "PackagePath": "buildMultiTargeting\\devguilherme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.devguilherme.props",
+      "PackagePath": "buildTransitive\\devguilherme.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.devguilherme.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

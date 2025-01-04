@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>devguilherme</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <!-- Link SwiperJS CSS-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="~/css/About.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Services.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Projects.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/devguilherme.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-dark navbar-toggleable-sm text-warning-emphasis box-shadow  mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="@Url.Content("~/assets/images/devguilherme.png")" alt="logo" class="photo-logo">
+                </a>
+                <button class="navbar-toggler" id="navbar-toggle" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div id="navbar" class="navbar-collapse collapse d-sm-inline-flex justify-content-between hidden">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Index">Página
+                                Principal</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="About">Sobre mim</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Services">Serviços</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Projects">Projetos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#contacts">Contatos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Blog">Blog</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer text-center position-absolute top-100" id="contacts">
+        <h3>REDES DE CONTATOS</h3>
+        <div class="network">
+
+            <div class="site">
+                <h4>WEB PORTFÓLIO</h3>
+                    <div class="link-footer position-relative">
+                        <a href="https://devguilherme.com.br">
+                            <img src="@Url.Content("~/assets/icons/For-footer/internet-icons8.png")" alt="Icon"
+                                class="icon-footer">
+                            <span>devguilherme.com.br</span>
+                        </a>
+                    </div>
+            </div>
+            <div class="contacts">
+                <h4>CONTATOS</h4>
+                <div class="link-footer position-relative">
+                    <a href="mailto:dev.guilhermebarbos@gmail.com">
+                        <img src="@Url.Content("~/assets/icons/For-footer/email-icons8.png")" alt="Icon"
+                            class="icon-footer">
+                        <span>dev.guilhermebarbos@gmail.com</span>
+                    </a>
+                </div>
+                <div class="link-footer position-relative">
+                    <a href="tel:+5589988121074">
+                        <img src="@Url.Content("~/assets/icons/For-footer/whatszapp-icons8.png")" alt="Icon"
+                            class="icon-footer">
+                        <span>+55 (89) 9 8812-1074</span>
+                    </a>
+                </div>
+            </div>
+            <div class="conections">
+                <h4>CONEXÕES</h4>
+                <div class="link-footer position-relative">
+                    <a href="http://www.instagram.com/guilherme.ngk">
+                        <img src="@Url.Content("~/assets/icons/For-footer/instagram-icons8.png")" alt="Icon"
+                            class="icon-footer ">
+                        <span>Instagram</span>
+                    </a>
+                </div>
+                <div class="link-footer position-relative">
+                    <a href="http://www.linkedin.com/in/devguilhermebarbosa">
+                        <img src="@Url.Content("~/assets/icons/For-footer/linkedin-icons8.png")" alt="Icon"
+                            class="icon-footer ">
+                        <span>Linkedin</span>
+                    </a>
+                </div>
+                <div class="link-footer position-relative">
+                    <a href="http://www.github.com/devguilherme-b">
+                        <img src="@Url.Content("~/assets/icons/For-footer/github-icons8.png")" alt="Icon"
+                            class="icon-footer ">
+                        <span>Github</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="credits">
+            </p>&copy; 2024 - Desenvolvido por <a href="http://devguilherme.com.br">devguilherme</a> & ícones por <a
+                href="https://icons8.com">Icons8</a> </p>
+        </div>
+    </footer>
+    <!-- Link SwiperJS script-->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

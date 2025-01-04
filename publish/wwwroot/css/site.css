@@ -1,0 +1,88 @@
+html {
+  font-size: 14px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem rgb(249, 114, 114), 0 0 0 0.25rem #258cfb;
+}
+
+body {
+  margin-bottom: 60px;
+  overflow-x: hidden;
+  background-color: #e0e0e0;
+}
+
+/* Estilo da home: */
+#home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: baseline;
+  padding: 10%;
+}
+
+/* Estilo do intro: */
+.intro{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 10%;
+}
+.intro{
+  color: #8d8d8d;
+  strong{
+    color: rgb(59, 59, 59);
+  }
+  p{
+    color: #ff7f50;
+  }
+}
+
+/* Estilo dos icones: */
+.nav-icon{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: baseline;
+  padding: 3em;
+}
+
+/* Response - Mobile First*/
+@media (max-width: 320px) {
+  html {
+    font-size: 14px;
+  }
+
+  .nav-icon{
+    padding: 0;
+  }
+
+
+  img .icon-nav{
+    width: 2em;
+  }
+}
+
+@media (min-width: 390px) {
+  html {
+    font-size: 14px;
+  }
+  body{
+    margin-bottom: 40px;
+  }
+
+  .nav-icon{
+    padding: 0;
+  }
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}

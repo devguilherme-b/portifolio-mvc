@@ -1,0 +1,119 @@
+/* Estilo do cabeçalho/navbar */
+header[b-o7zdej32dz],
+nav .container-fluid[b-o7zdej32dz] {
+  background-color: #d95b43;
+}
+
+.photo-logo[b-o7zdej32dz] {
+  height: 45px;
+}
+
+/* Estilo global:*/
+a[b-o7zdej32dz] {
+  color: #e0e0e0;
+  text-decoration: none;
+}
+
+a.navbar-brand[b-o7zdej32dz] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+.btn-primary[b-o7zdej32dz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-o7zdej32dz],
+.nav-pills .show > .nav-link[b-o7zdej32dz] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-o7zdej32dz] {
+  border-top: 1px solid #ffffff00;
+}
+.border-bottom[b-o7zdej32dz] {
+  border-bottom: 1px solid #ffffff3c;
+}
+
+.box-shadow[b-o7zdej32dz] {
+  box-shadow: 0 0.25rem 0.75rem rgba(84, 17, 255, 0.309);
+}
+
+button.accept-policy[b-o7zdej32dz] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Estilo do footer */
+
+.footer[b-o7zdej32dz] {
+  position: absolute;
+  margin-top: 4%;
+  bottom: 0;
+  width: 100%;
+  height: 57%;
+  display: flex;
+  flex-direction: column;
+  color: #e0e0e0;
+  background-color: #d95b43;
+  border-radius: 3rem 3rem 0 0;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.network[b-o7zdej32dz] {
+  display: flex;
+  flex-wrap: wrap; /* Define como os itens dentro do container iram se comportar quando ñ houver espaço suficiente; neste caso "wrap" quebra e add em uma nova linha*/
+  justify-content: space-evenly;
+  margin: 1rem 0; /* Espaçamento em cima e baixo e depois dos lados*/
+}
+
+.site[b-o7zdej32dz], .contacts[b-o7zdej32dz], .conections[b-o7zdej32dz]{
+  margin: 1rem;
+  text-align: center;
+}
+
+.link-footer[b-o7zdej32dz]{
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0.5rem 0; /* Espaçamento em cima e baixo e depois dos lados*/
+}
+
+.icon-footer[b-o7zdej32dz] {
+  width: 1.8rem;
+  height: auto;
+  vertical-align: middle; /* ALinha itens em uma linha horizontal */
+}
+
+@media (max-width: 389px) {
+  .photo-logo[b-o7zdej32dz] {
+    height: 30px;
+  }
+}
+
+@media (min-width: 390px) {
+  .photo-logo[b-o7zdej32dz] {
+    height: 35px;
+  }
+}
+
+@media (max-width: 430px) {
+  .footer[b-o7zdej32dz]{
+    height: 100%;
+  }
+  
+  .network[b-o7zdej32dz] {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .link-footer[b-o7zdej32dz]{
+    justify-content: center;
+  }
+}

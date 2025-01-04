@@ -1,0 +1,226 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.content {
+  min-height: 100%;
+  padding-bottom: 700px;
+  /* Espaço para o footer */
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 14px;
+  font-family: "Playwrite CO Guides", serif;
+  font-style: normal;
+  padding: 0;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem rgb(255, 98, 0), 0 0 0 0.25rem #fb6525;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #c7c6ba;
+  font-family: "Poppins", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Estilo da home: */
+#home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Estilo do intro: */
+.intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  padding: 8%;
+  margin: 8%;
+  color: #5e5e5e;
+  text-align: center;
+
+  h1 {
+    font-size: 3.7em;
+  }
+
+  strong {
+    color: rgb(71, 71, 71);
+  }
+}
+
+/* Estilo dos icones: */
+.nav-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  .profession {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1em;
+
+    p {
+      font-size: 1.6rem;
+      color: #d95b43;
+    }
+  }
+
+  img {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+.details-profession {
+  margin-top: 3%;
+
+  a {
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: #d95b43;
+    color: #d8d8d8;
+    width: 50%;
+    padding: 6px;
+  }
+}
+
+@media (max-width: 398px) {
+  html {
+    font-size: 14px;
+    font-family: "Playwrite CO Guides", serif;
+    font-style: normal;
+    padding: 0;
+  }
+  .intro {
+    padding-top: 30%;
+
+    h1 {
+      font-size: 1.8rem;
+    }
+  }
+
+  .nav-icon {
+    .profession {
+      p {
+        font-size: 0.8rem;
+      }
+    }
+  }
+
+  .nav-icon {
+    img {
+      width: 13px;
+      height: 13px;
+    }
+  }
+}
+
+@media (min-width: 389px) and (max-width: 469px) {
+  .credits {
+    padding: 4%;
+  }
+
+  #home {
+    padding: 0;
+    margin: 0;
+  }
+
+  .intro {
+    .details-profession {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+    }
+
+    h1 {
+      font-size: 1.3rem;
+    }
+  }
+
+  .intro .profession {
+    p {
+      font-size: 0.9rem;
+    }
+  }
+
+  .nav-icon {
+    flex-direction: row;
+    justify-content: space-between;
+
+    .profession {
+      padding-top: 0.8em;
+    }
+
+    img {
+      width: 15px;
+      height: 15px;
+    }
+  }
+
+  .details-profession {
+    padding: 2%;
+    flex-direction: column;
+    text-align: center;
+    text-decoration: none;
+  }
+}
+
+@media (min-width: 470px) and (max-width: 767px) {
+  #home {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .intro {
+    h1 {
+      font-size: 1.8rem;
+    }
+
+    .profession {
+      p {
+        font-size: 1rem;
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 999px) {
+  html {
+    font-size: 16px;
+  }
+
+  .intro {
+    h1 {
+      font-size: 2rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
+  }
+}
+
+@media (min-width: 1000px) and (max-width: 1200px) {
+  .intro {
+    h1 {
+      font-size: 3.5rem;
+    }
+  }
+}

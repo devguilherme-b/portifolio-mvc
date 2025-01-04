@@ -1,0 +1,17 @@
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\devguilherme.exe
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\publish\web.config
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\web.config
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\appsettings.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\appsettings.Development.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\appsettings.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\devguilherme.deps.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\devguilherme.runtimeconfig.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\publish\appsettings.Development.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\publish\appsettings.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\publish\devguilherme.deps.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\publish\publish\devguilherme.runtimeconfig.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\devguilherme.dll
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\devguilherme.deps.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\devguilherme.runtimeconfig.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\bin\Release\net8.0\publish\devguilherme.pdb

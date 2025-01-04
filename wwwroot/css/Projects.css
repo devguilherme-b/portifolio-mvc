@@ -1,0 +1,60 @@
+#projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* Centraliza o conteúdo horizontalmente */
+    justify-content: center;
+    /* Centraliza o conteúdo verticalmente */
+    width: 100%;
+    /* Certifique-se de que o container ocupe a largura total */
+}
+
+.container-cards.swiper {
+    width: 100%;
+    /* O swiper ocupará toda a largura do container */
+    display: flex;
+    justify-content: center;
+    /* Centraliza o swiper */
+    align-items: center;
+    /* Garante que os slides fiquem centralizados verticalmente */
+    position: relative;
+    /* Para garantir que os botões de navegação fiquem posicionados corretamente */
+}
+
+.swiper-wrapper {
+    display: flex;
+    justify-content: center;
+    /* Centraliza os slides */
+    align-items: center;
+    width: 100%;
+}
+
+.swiper-slide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* Centraliza o conteúdo dentro do slide */
+    align-items: center;
+    /* Alinha o conteúdo verticalmente */
+    padding: 10px;
+    /* Ajuste o padding conforme necessário */
+    width: auto;
+    /* O tamanho do slide se ajusta ao conteúdo */
+}
+
+
+.project-item {
+    display: flex;
+    height: auto;
+    flex-direction: column;
+    padding: 10%;
+    background-color: #8d8d8d;
+    color: #d8d8d8;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.interaction-clic{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

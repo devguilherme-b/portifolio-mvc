@@ -1,0 +1,12 @@
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\devguilherme.exe
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\publish\web.config
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\appsettings.Development.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\appsettings.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\publish\appsettings.Development.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\publish\appsettings.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\publish\devguilherme.deps.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\publish\devguilherme.runtimeconfig.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\devguilherme.dll
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\devguilherme.deps.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\devguilherme.runtimeconfig.json
+C:\Users\guilh\Documents\MEGA\Projetos_MVC\devguilherme\publish\devguilherme.pdb
